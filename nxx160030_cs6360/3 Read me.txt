@@ -1,0 +1,10 @@
+
+1,unzip the SqlLibraryPr.zip package 
+
+2,run “SqlLibrary.sql” with command line to build database with mysqlserver database.
+
+3,import the project into Eclipse, run “src/db/DbInitalize.java” as application;
+
+4, then run “src/gui/MISWindow.java” , or use the command line with “java -jar -XstartOnFirstThread SqlLibraryPr.jar”
+
+5,dependencies:  JRE System Library[Java SE 8[1.8.0_101]]; MysqlServer homebrew;
